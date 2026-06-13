@@ -1,6 +1,9 @@
 {
   "name": "@red-explosion/biome-config",
   "version": "0.3.0",
+  "bugs": {
+    "url": "https://github.com/red-explosion/common-js/issues"
+  },
   "description": "Red Explosion's Biome config.",
   "keywords": [
     "red-explosion",
